@@ -1,7 +1,9 @@
 package WeekFour.Inheritance;
-
-public class Cars {
+public class LivingThings {
     public static void main(String[] args) {
+
+
+
 
     }
     }

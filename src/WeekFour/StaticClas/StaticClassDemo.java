@@ -1,4 +1,4 @@
-package WeekFour;
+package WeekFour.StaticClas;
 
 import java.sql.SQLOutput;
 

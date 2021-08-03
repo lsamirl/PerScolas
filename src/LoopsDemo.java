@@ -13,5 +13,6 @@ public class LoopsDemo {
         LoopsDemo P2= new LoopsDemo(); P2.programTwo();
         LoopsDemo P3= new LoopsDemo(); P3.programThree();
 
+        System.out.println("---------object--" + P1.toString());
     }
 }
